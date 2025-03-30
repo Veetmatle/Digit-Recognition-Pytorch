@@ -1,4 +1,4 @@
-Hello, this is a simple neural network written in Python, pytorch as a beginning learning project. Feel free to copy. General information:
+Hello, this is a simple neural network written in Python (pytorch) as a beginning learning project. General information:
 
 Basically we work on provided data from MNIST dataset, which is divided into training and testing data.
 ![image](https://github.com/user-attachments/assets/c7998cd2-b5fc-4e9d-81ba-79fa621bf604)
