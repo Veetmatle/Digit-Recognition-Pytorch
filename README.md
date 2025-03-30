@@ -10,12 +10,15 @@ After that we should train and test our data, calculating the average loss and a
 ![image](https://github.com/user-attachments/assets/045ae6a5-0854-4614-8b34-0ffffc8b2a8d)
 
 And we apply it:
+
 ![image](https://github.com/user-attachments/assets/76fed64c-1fc7-457e-a38f-2aca70cea09d)
 
 Where result should appear something like this:
+
 ![image](https://github.com/user-attachments/assets/19a53e0e-bf82-4ef4-ac95-371bc7ea90bb)
 
 At the end I load my pictures with same patter as those provided in MNIST dataset and as expected I get decent results.
+
 ![image](https://github.com/user-attachments/assets/c4af0d0f-fff9-416e-9e14-4b179b25270c)
 ![image](https://github.com/user-attachments/assets/6d415e6c-2049-41e2-a677-a8c860903fbf)
 ![image](https://github.com/user-attachments/assets/69106c0e-583d-4ed5-8a12-b01518ef8eee)
