@@ -17,7 +17,7 @@ Where result should appear something like this:
 
 ![image](https://github.com/user-attachments/assets/19a53e0e-bf82-4ef4-ac95-371bc7ea90bb)
 
-At the end I load my pictures with same patter as those provided in MNIST dataset and as expected I get decent results.
+At the end I load my pictures with same pattern as those provided in MNIST dataset and as expected I get decent results.
 
 ![image](https://github.com/user-attachments/assets/c4af0d0f-fff9-416e-9e14-4b179b25270c)
 ![image](https://github.com/user-attachments/assets/6d415e6c-2049-41e2-a677-a8c860903fbf)
